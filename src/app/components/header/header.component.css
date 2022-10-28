@@ -1,0 +1,17 @@
+.header__link {
+  font-size: 3rem;
+}
+
+.header__date {
+  font-size: 1.5rem;
+}
+
+.flex  {
+  display: flex;
+  justify-content: center;
+}
+
+.rates {
+  display: flex;
+  flex-flow: column;
+}
